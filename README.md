@@ -1,7 +1,8 @@
 # Bus Terminal Ticket Price Regression - Machine Learning Models Comparison
 
 A comprehensive Jupyter Notebook demonstrating complete machine learning regression workflow using multiple algorithms to predict ticket prices in bus terminals. The project includes data preprocessing, dimensionality reduction with PCA, and comparative analysis of 4 different regression models.
-
+ 
+ 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
